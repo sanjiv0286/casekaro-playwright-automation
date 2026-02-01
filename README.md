@@ -19,6 +19,7 @@ The automation validates product search, negative brand validation, material sel
 - **Version Control:** Git & GitHub
 
 ---
+
 ## 🧪 Automated Test Scenario
 
 **Feature:** CaseKaro Mobile Cover Purchase
@@ -60,15 +61,18 @@ mvn clean test
 
 Below are the actual execution screenshots from the automation run:
 
-### ✅ Test Result 1
-![Test Result](result/TestResult.png)
+### ✅ Test Result
+
+![Test Result](result/TestResult.jpeg)
 
 ### 📌 Execution Summary
-- **Scenarios Executed:** 1  
-- **Scenarios Passed:** 1  
-- **Steps Executed:** 10  
-- **Steps Passed:** 10  
-- **Execution Time:** ~25 seconds
+
+- **Scenarios Executed:** 1
+- **Scenarios Passed:** 1
+- **Steps Executed:** 10
+- **Steps Passed:** 10
+- **Execution Time:** ~48 seconds
+
 ---
 
 ## ✅ Key Validations
@@ -97,7 +101,6 @@ Below are the actual execution screenshots from the automation run:
 ## 👤 Author
 
 **Sanjiv Kushwaha**
-
 GitHub: https://github.com/sanjiv0286
 
 ---
